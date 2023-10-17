@@ -1,4 +1,3 @@
-// app.ts
 import express from 'express';
 import { LearningSystem } from './services/learning-system';
 import { ITopic, IQuestion, IAnswer } from './models';
