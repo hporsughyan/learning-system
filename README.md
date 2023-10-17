@@ -25,7 +25,7 @@ These instructions will help you set up and run the Learning System on your loca
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/learning-system.git
+   git clone https://github.com/hporsughyan/learning-system.git
    cd learning-system
    ```
 
