@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "setup-database": "knex migrate:latest"
   },
   "author": "",
   "license": "ISC",
