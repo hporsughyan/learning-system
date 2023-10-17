@@ -39,9 +39,6 @@ These instructions will help you set up and run the Learning System on your loca
 
 4. Initialize the database schema and tables.
 
-   ```bash
-   npm run setup-database
-   ```
 
 ### Usage
 
